@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.erorr{
+    color: red;
+}
+.submit{
+    color: white;
+    font-size: 15px;
+    text-align: center!important;
+    text-decoration: none;
+    vertical-align: middle;
+    border:3px solid rgba(0, 0, 255, 0.79) ;
+    background-color:rgba(0, 0, 255, 0.895);
+    font-weight: 300;
+    width: 20%;
+    padding: 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.form{
+    display: block;
+    text-align: center!important;
+
+}
+.submit button{
+    color: white
+  
+}
+.email{
+    box-sizing:border-box;
+    padding: 2px 60px;
+}
+.p{
+    padding-right: 190px;
+}
+.p1{
+    padding-right: 240px;
+}
+.p2{
+    padding-right: 220px;
+}
